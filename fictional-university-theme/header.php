@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
+      <title>My Little Title</title>
         <?php wp_head(); ?>
     </head>
 <body>    
